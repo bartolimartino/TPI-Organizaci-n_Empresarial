@@ -2,17 +2,16 @@
 
 
 
-#Manual de uso del chatbot MAX:
+# Manual de uso del chatbot MAX:
 
+# Paso 1, 1.ª interacción: El usuario debe interactuar con el bot (en este caso, ejecutar el archivo Menu_principal.py).
 
-#paso 1, 1ra interacion: El usuario debe interactuar con el bot (en este caso ejecutar el archivo Menu_principal.py).
+# Paso 2, DNI: El usuario deberá ingresar su DNI que lo identifica como empleado en la base de datos.
 
-#paso 2, DNI: El usuario debera ingresar su DNI que lo identifica como empleado en la base de datos.
+# Paso 3, seleccionar opción: El usuario deberá elegir entre las opciones que aparecen en pantalla según sus necesidades.
+# Opciones: pedir días, consultar días de vacaciones, solicitar licencia médica, salida del programa.
 
-#paso 3, seleccionar opcion: El usuario debera elegir entre las opciones que aparecen en pantalla segun sus necesidades. 
-#opciones: pedir dias, consultar dias de vacaciones, solicitar licecia medica, salida del programa.
-
-#paso 4, completar: Segun la opcion elegida rellear los campos solicitados por el chatbot.
+# Paso 4, completar: Según la opción elegida, rellenar los campos solicitados por el chatbot.
 
 #
 #
