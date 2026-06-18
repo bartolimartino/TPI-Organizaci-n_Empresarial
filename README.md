@@ -13,7 +13,7 @@
 
 #Paso 4, completar: Según la opción elegida, rellenar los campos solicitados por el chatbot.
 
-# Maquina de estados
+# Máquina de estados
 El bot pasa por una serie de estados donde se llevan a cabo procesos como entradas de datos, toma de decisiones, etc. Lo importante es que en todo momento el sistema "sabe" en qué situación está, y eso determina qué puede hacer a continuación:
 
 #INICIO: el bot espera el DNI del usuario
