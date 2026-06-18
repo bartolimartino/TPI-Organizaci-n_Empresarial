@@ -2,6 +2,8 @@
 import csv
 from datos import datos_a_lista
 from pedir_dias import pedir_dias
+from licencia_medica import solicitar_licencia_medica
+from consultar_dias import consultar_dias_vacacioens 
 
 def mostrar_menu():   
     while True:
@@ -58,9 +60,9 @@ while True:
         if opcion == 1:
             pedir_dias(lista_empleados, empleado_activo)
         if opcion == 2:
-            pass    
+            consultar_dias_vacacioens(empleado_activo, archivo_empresa)
         if opcion == 3:
-            pass
+            licencia = solicitar_licencia_medica()
         if opcion == 4:
             pass
             print("Saliendo del programa, hasta pronto")
