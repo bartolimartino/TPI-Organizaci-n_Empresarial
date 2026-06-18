@@ -10,7 +10,7 @@
 #paso 2, DNI: El usuario debera ingresar su DNI que lo identifica como empleado en la base de datos.
 
 #paso 3, seleccionar opcion: El usuario debera elegir entre las opciones que aparecen en pantalla segun sus necesidades. 
-# opciones: pedir dias, consultar dias de vacaciones, solicitar licecia medica, salida del programa.
+#opciones: pedir dias, consultar dias de vacaciones, solicitar licecia medica, salida del programa.
 
 #paso 4, completar: Segun la opcion elegida rellear los campos solicitados por el chatbot.
 
