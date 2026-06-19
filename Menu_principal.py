@@ -62,7 +62,7 @@ while True:
         if opcion == 2:
             consultar_dias_vacacioens(empleado_activo, archivo_empresa)
         if opcion == 3:
-            licencia = solicitar_licencia_medica()
+            licencia = solicitar_licencia_medica(lista_empleados, empleado_activo, archivo_empresa)
         if opcion == 4:
             pass
             print("Saliendo del programa, hasta pronto")
